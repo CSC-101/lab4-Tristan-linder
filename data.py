@@ -33,4 +33,3 @@ class Point:
                 type(other) == Point and
                 math.isclose(self.x, other.x) and
                 math.isclose(self.y, other.y))
-
